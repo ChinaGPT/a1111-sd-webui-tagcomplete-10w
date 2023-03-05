@@ -18,12 +18,14 @@ Extensions -> Install from URL 填写git地址：https://github.com/inlhx/a1111-
 
  settings->TagComplete-> Translation filename
 
-
+# 按照下图设置，设置完毕记得重启，如果提示不出来肯定是下图步骤少了或者没重启
  
 
 ![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/3.png)
 
 ![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/4.png)
+
+![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/5.png)
 
 
 ![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/1.png)

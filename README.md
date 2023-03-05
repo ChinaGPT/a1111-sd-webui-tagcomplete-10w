@@ -1,13 +1,12 @@
-# a1111-sd-webui-tagcomplete-10w
+stable diffusion webui 10万中文tags插件
+
+10万tag 自动提示简体中文翻译(**安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete 插件不然会冲突**，删除位置：stable-diffusion-webui\extensions\安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete)
+
 推荐stable diffusion学习QQ群：451641031，925505542，680518267
 
 群内活动：2023-03-06~2023-03-10 9点到16点，免费提供5台闲置3080ti 12G显存服务器技术学习使用，可以下载自己的lora，需要排队预约，避免资源争抢，需要的加QQ:5772150   
 
 
-
- 10万tag 自动提示简体中文翻译(**安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete 插件不然会冲突**，删除位置：stable-diffusion-webui\extensions\安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete)
-
- 
 
  基于 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete 插件
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/DominikDoom/a1111-sd-webui-tagcomplete)](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/releases)

@@ -1,4 +1,5 @@
 # a1111-sd-webui-tagcomplete-10w
+推荐stable diffusion学习QQ群：451641031，925505542，680518267
  10万tag 自动提示简体中文翻译(**安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete 插件不然会冲突**，删除位置：stable-diffusion-webui\extensions\安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete)
 
  基于 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete 插件

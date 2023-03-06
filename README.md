@@ -1,10 +1,12 @@
-AUTOMATIC1111 stable diffusion webui 10万中文tags插件
+AUTOMATIC1111 stable diffusion webui 10万中文tag+自动提示插件 chinese tag plugin
 
 10万tag 自动提示简体中文翻译(**安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete 插件不然会冲突**，删除位置：stable-diffusion-webui\extensions\安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete)
 
 推荐stable diffusion学习QQ群：451641031，925505542，680518267
 
-群内活动：2023-03-06~2023-03-10 9点到16点，免费提供5台闲置3080ti 12G显存服务器技术学习使用，可以下载自己的lora，需要排队预约，避免资源争抢，需要的加QQ:5772150   
+新增输入英文同步出中文翻译词功能：
+
+![图新增中文对照翻译](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/6.png)
 
 
 
@@ -28,16 +30,16 @@ Extensions -> Install from URL 填写git地址：https://github.com/inlhx/a1111-
 # 按照下图设置，设置完毕记得重启，如果提示不出来肯定是下图步骤少了或者没重启
  
 
-![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/3.png)
+![图1](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/3.png)
 
-![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/4.png)
+![图2](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/4.png)
 
-![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/5.png)
+![图3](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/5.png)
 
 
-![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/1.png)
+![图4](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/1.png)
 
-![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/2.png)
+![图4](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/2.png)
 
 
  

@@ -401,7 +401,7 @@ function inputWords(textArea) {
         var tArray = [...translations];
         if (tArray) {
             let translationKey = [...translations].find(pair => pair[0].includes(wordtxt));
-            wordtxt = wordtxt.replaceAll(" ", "_")
+            wordtxt = wordtxt.replaceAll("_", " ")
             if (translationKey) {
                 alertPrompt += wordtxt + "=>" + translationKey[1];
             } else {

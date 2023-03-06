@@ -362,14 +362,16 @@ async function insertTextAtCursor(textArea, result, tagword) {
 function inputWords(textArea) {
     let textAreatxt = textArea.value
     let idx = "";
-    if (textArea.placeholder.indexOf("Negative prompt") != -1) {
+    if (textArea.parentNode.parentNode.id=="txt2img_neg_prompt") {
         idx = "txt2img_neg_prompt";
     } else {
         idx = "txt2img_prompt";
     }
     let alertPromptSpan = gradioApp().querySelector("#" + idx + "Span")
     if (textAreatxt == '') {
-        alertPromptSpan.innerHTML = "";
+        if (alertPromptSpan != null) {
+            alertPromptSpan.innerHTML = "";
+        }
         return '';
     }
     textAreatxt = textAreatxt
@@ -409,7 +411,7 @@ function inputWords(textArea) {
         }
         // textAreatxt = textAreatxt.replaceAll(" ", "_");//.replaceAll("","").replaceAll("","").replaceAll("","").replaceAll("","")
     }
-    
+
     let alertPromptDiv = gradioApp().querySelector("#" + idx);
     if (!alertPromptSpan) {
         var spanx = document.createElement("span");

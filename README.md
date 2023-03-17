@@ -28,11 +28,17 @@ Extensions -> Install from URL 填写git地址：https://github.com/inlhx/a1111-
  settings->TagComplete-> Translation filename
 
 # 按照下图设置，设置完毕记得重启，如果提示不出来肯定是下图步骤少了或者没重启
+
  如果看不见图，可能你被墙了，按照以下文字进行设置：
+ 
   settings->TagComplete-> Translation filename
+  
   在页面找到Tag filename  选择：danbooru-index.csv
+  
   在页面找到Translation filename  选择：danbooru-10w-zh_cn.csv
+  
   在页面找到：Extra filename (for small sets of custom tags)  设置为空
+  
 
 ![图1](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/3.png)
 

@@ -25,13 +25,13 @@ Extensions -> Install from URL 填写git地址：https://github.com/inlhx/a1111-
 
 设置：
 
- settings->TagComplete-> Translation filename
+ settings->TagComplete 
 
 # 按照下图设置，设置完毕记得重启，如果提示不出来肯定是下图步骤少了或者没重启
 
  如果看不见图，可能你被墙了，按照以下文字进行设置：
  
-  settings->TagComplete-> Translation filename
+  settings->TagComplete 选项卡：
   
   在页面找到Tag filename  选择：danbooru-index.csv
   

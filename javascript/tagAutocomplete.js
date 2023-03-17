@@ -417,7 +417,7 @@ function inputWords(textArea) {
         var spanx = document.createElement("span");
         spanx.id = idx + "Span";
         spanx.style=" box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);background-color:lightyellow; border-bottom:3px solid #A67C52;";
-		spanx.class="gr-box";
+	spanx.className="gr-box";
         spanx.innerHTML = alertPrompt;
         alertPromptDiv.appendChild(spanx);
         console.log(alertPrompt)

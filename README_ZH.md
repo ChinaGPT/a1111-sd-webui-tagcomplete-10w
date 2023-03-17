@@ -15,6 +15,7 @@ AUTOMATIC1111 stable diffusion webui 10万中文tag+自动提示插件 chinese t
 
 
 
+
 # stable-diffsion-webui中插件安装方式：
 
 Extensions -> Install from URL 填写git地址：https://github.com/inlhx/a1111-sd-webui-tagcomplete-10w.git
@@ -39,6 +40,9 @@ Extensions -> Install from URL 填写git地址：https://github.com/inlhx/a1111-
   
   在页面找到：Extra filename (for small sets of custom tags)  设置为空
   
+  # 如果timeout安装不上
+
+  可以点git仓库下载zip包,然后本地解压目录放到：stable-diffusion-webui\extensions\ 下面重启一下就可以了.
 
 ![图1](https://raw.githubusercontent.com/inlhx/a1111-sd-webui-tagcomplete-10w/main/img/3.png)
 

@@ -1,6 +1,6 @@
 AUTOMATIC1111 stable diffusion webui 10万中文tag+自动提示插件 chinese tag plugin
 
-10万tag 自动提示简体中文翻译(**安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete 插件不然会冲突**，删除位置：stable-diffusion-webui\extensions\安装时需要删除或关闭已有的tagcomplete 文件夹)
+10万tag 自动提示简体中文翻译(**安装时需要卸载或关闭已有的a1111-sd-webui-tagcomplete 插件不然会冲突**，删除位置：stable-diffusion-webui\extensions\安装时需要删除或关闭已有的a1111-sd-webui-tagcomplete文件夹 也有可能叫 tagcomplete 这个名字 )
 
 推荐stable diffusion学习QQ群：451641031，925505542，680518267
 
